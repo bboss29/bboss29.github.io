@@ -1,0 +1,86 @@
+[
+  {
+    "name" : "getInfo",
+    "desc" : "Hardware Inventory",
+    "role" : "Internship - Help Desk Technician",
+    "org" : "Lettuce Entertain You Enterprises",
+    "lang" : "Batch",
+    "src" : "projects/getInfo.bat",
+    "tags" : ""
+  },
+  {
+    "name" : "toInventory",
+    "desc" : "Hardware Inventory",
+    "role" : "Internship - Help Desk Technician",
+    "org" : "Lettuce Entertain You Enterprises",
+    "lang" : "Python",
+    "src" : "projects/toInventory.py",
+    "tags" : ""
+  },
+  {
+    "name" : "Retail Alert",
+    "desc" : "",
+    "role" : "Student",
+    "org" : "Northeastern Illinois University",
+    "lang" : "PHP & MySQL",
+    "src" : "",
+    "tags" : ""
+  },
+  {
+    "name" : "Vinyl",
+    "desc" : "",
+    "role" : "Student",
+    "org" : "Northeastern Illinois University",
+    "lang" : "PHP & MySQL",
+    "src" : "",
+    "tags" : ""
+  },
+  {
+    "name" : "Lincolnwood Together Website",
+    "desc" : "",
+    "role" : "Freelance",
+    "org" : "Lincolnwood Together",
+    "lang" : "PHP & MySQL",
+    "src" : "http://lincolnwoodtogether.org/",
+    "tags" : "Live"
+  },
+  {
+    "name" : "Harice Leavitt Memorial Website",
+    "desc" : "",
+    "role" : "Freelance",
+    "org" : "Harice Leavitt Memorial Angel Fund",
+    "lang" : "PHP & MySQL",
+    "src" : "http://hariceleavittmemorialangelfund.org/",
+    "tags" : "Live"
+  },
+  {
+    "name" : "Purchasing Project",
+    "desc" : "",
+    "role" : "Software Developer",
+    "org" : "Lettuce Entertain You Enterprises",
+    "lang" : "Google Apps Script",
+    "src" : "",
+    "tags" : ""
+  },
+  {
+    "name" : "NBN Accounting",
+    "desc" : "",
+    "role" : "Project Manager",
+    "org" : "Lettuce Entertain You Enterprises",
+    "lang" : "Google Apps Script",
+    "src" : "",
+    "tags" : ""
+  },
+  {
+    "name" : "Shopping List",
+    "desc" : "",
+    "role" : "Student",
+    "org" : "Northeastern Illinois University",
+    "lang" : "Java & MySQL",
+    "src" : "",
+    "tags" : ""
+  }
+
+
+
+]

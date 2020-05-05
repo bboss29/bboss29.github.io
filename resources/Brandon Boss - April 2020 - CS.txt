@@ -1,11 +1,11 @@
 Brandon Solomon Boss
 SOFTWARE DEVELOPER
 
---Contact--
+--CONTACT--
 	Email: bsboss@neiu.edu
 	https://www.linkedin.com/in/brandon-boss/
 
---Portfolio--
+--PORTFOLIO--
 	https://bboss29.github.io/
 
 --OBJECTIVE--
@@ -14,32 +14,34 @@ SOFTWARE DEVELOPER
 
 --PROFESSIONAL EXPERIENCE--
 
-	JACOBS DIVISION,
-	LETTUCE ENTERTAIN YOU ENTERPRISES
-	January 2019 - Present
-		Utilizing Agile software development to create solutions for restaurants to operate more efficiently.
-		Leading project to develop software that streamlines the process restaurants use to take inventory and order items from their vendors.
+    Software Developer
+        JACOBS DIVISION,
+        LETTUCE ENTERTAIN YOU ENTERPRISES
+        January 2019 - Present
+            Utilizing Agile software development to create solutions for restaurants to operate more efficiently.
+            Leading project to develop software that streamlines the process restaurants use to take inventory and order items from their vendors.
 
 	Project Manager
-	NUTS BOLTS & NUTS DEPARTMENT,
-	LETTUCE ENTERTAIN YOU ENTERPRISES
-	August 2017 - March 2019
-		Designed and implemented a Help Desk ticketing system by employing the software development lifecycle.
-		Developed supplementary tools using Google Apps Script to assist with accounting and scheduling; created training materials and trained users. Organized and facilitated communication between clients and end users.
+        NUTS BOLTS & NUTS DEPARTMENT,
+        LETTUCE ENTERTAIN YOU ENTERPRISES
+        August 2017 - March 2019
+            Designed and implemented a Help Desk ticketing system by employing the software development lifecycle.
+            Developed supplementary tools using Google Apps Script to assist with accounting and scheduling; created training materials and trained users.
+            Organized and facilitated communication between clients and end users.
 
 	Internship - Help Desk Technician
-	IT DEPARTMENT,
-	LETTUCE ENTERTAIN YOU ENTERPRISES
-	June 2017 - August 2017
-		Performed maintenance and operation of hardware and software systems at LEYE restaurants in the Chicagoland area.  
-		Trained in:  Network Topology & Security, Point of Sale Technology, PC/Desktop Support, & System Administration
-		Carryout Staff
+        IT DEPARTMENT,
+        LETTUCE ENTERTAIN YOU ENTERPRISES
+        June 2017 - August 2017
+            Performed maintenance and operation of hardware and software systems at LEYE restaurants in the Chicagoland area.
+            Trained in:  Network Topology & Security, Point of Sale Technology, PC/Desktop Support, & System Administration
 
-	L. WOODS RESTAURANT,
-	LETTUCE ENTERTAIN YOU ENTERPRISES
-	May 2015 - May 2017
-		Recognized inefficiencies and took initiative by designing and implementing systems to maximize our department's accuracy and expediency.
-		Completed tasks essential for customer satisfaction and kitchen efficiency.
+	Carryout Staff
+        L. WOODS RESTAURANT,
+        LETTUCE ENTERTAIN YOU ENTERPRISES
+        May 2015 - May 2017
+            Recognized inefficiencies and took initiative by designing and implementing systems to maximize our department's accuracy and expediency.
+            Completed tasks essential for customer satisfaction and kitchen efficiency.
 
 --EDUCATION--
 
@@ -49,21 +51,21 @@ SOFTWARE DEVELOPER
 
 --PROGRAMMING LANGUAGES--
 
-Proficient:
-	Python
-	PHP / MySQL
-	Google Apps
+    Proficient:
+        Python
+        PHP / MySQL
+        Google Apps Script
 
-Familiar:
-	Java
-	Javascript
-	Git
+    Familiar:
+        Java
+        Javascript
+        Git
 
 --OFFICES & CERTIFICATIONS--
 
-	Treasurer, 501 (c)(3) HLMA Fund
+	Treasurer, 501(c)(3) Harice Leavitt Memorial Angel Fund
 	Treasurer, Carina, Inc
-	Treasurer, CompSci Society, NEIU
+	Treasurer, Computer Science Society, NEIU
 	Certificate, Dale Carnegie
 	Certificate, Financial Services
 
