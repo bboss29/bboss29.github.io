@@ -14,7 +14,7 @@ $().ready(function(){
                     project.desc + '</td></tr>';
 
 
-            out += '<tr><th>Language</th><td>' +
+            out += '<tr><th>Language(s)</th><td>' +
                 project.lang + '</td></tr>';
 
             if (project.tags.indexOf("Live") !== -1)
