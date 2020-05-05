@@ -32,6 +32,15 @@
     "role" : "Student",
     "org" : "Northeastern Illinois University",
     "lang" : "PHP & MySQL",
+    "src" : "https://github.com/Uarmagan/VINYL",
+    "tags" : ""
+  },
+  {
+    "name" : "Shopping List",
+    "desc" : "",
+    "role" : "Student",
+    "org" : "Northeastern Illinois University",
+    "lang" : "Java & MySQL",
     "src" : "",
     "tags" : ""
   },
@@ -70,17 +79,5 @@
     "lang" : "Google Apps Script",
     "src" : "",
     "tags" : ""
-  },
-  {
-    "name" : "Shopping List",
-    "desc" : "",
-    "role" : "Student",
-    "org" : "Northeastern Illinois University",
-    "lang" : "Java & MySQL",
-    "src" : "",
-    "tags" : ""
   }
-
-
-
 ]

@@ -1,0 +1,7 @@
+Select two of the use cases that you defined on your analysis and design document and prepare a prototype.  This prototype can be a web-application, a mobile-app, or a stand-alone software.  The project will be graded on implemented functionality, so there is no need for a "fancy" user-interface at this time.
+
+Groups should be able to produce a walk-through of the prototype showing incorporation and modification of data and how that impacts the system.
+
+For mobile-apps you can use any phone emulator software, so there is no need to implement it on a regular smartphone.
+
+Please submit either a link to a site where the project can be accessed and run or a zip file with all the proper code files.
