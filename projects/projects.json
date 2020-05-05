@@ -1,34 +1,34 @@
 [
   {
     "name" : "getInfo",
-    "desc" : "Hardware Inventory",
+    "desc" : "create an inventory file & perform various diagnostics of the operating system",
     "role" : "Internship - Help Desk Technician",
     "org" : "Lettuce Entertain You Enterprises",
     "lang" : "Batch",
-    "src" : "projects/getInfo.bat",
+    "src" : "https://github.com/bboss29/bboss29.github.io/tree/master/projects/LEYE%20Hardware%20Inventory",
     "tags" : ""
   },
   {
     "name" : "toInventory",
-    "desc" : "Hardware Inventory",
+    "desc" : "Parse one or many inventory files (created by getInfo.bat) & upload the data to Google Sheets",
     "role" : "Internship - Help Desk Technician",
     "org" : "Lettuce Entertain You Enterprises",
     "lang" : "Python",
-    "src" : "projects/toInventory.py",
+    "src" : "https://github.com/bboss29/bboss29.github.io/tree/master/projects/LEYE%20Hardware%20Inventory",
     "tags" : ""
   },
   {
     "name" : "Retail Alert",
-    "desc" : "",
+    "desc" : "Prototype retail customer service solution. Store associates can respond to requests created by customers; customers can search product catalog",
     "role" : "Student",
     "org" : "Northeastern Illinois University",
     "lang" : "PHP & MySQL",
-    "src" : "",
+    "src" : "https://github.com/bboss29/bboss29.github.io/tree/master/projects/RetailAlert",
     "tags" : ""
   },
   {
     "name" : "Vinyl",
-    "desc" : "",
+    "desc" : "An e-commerce platform that offers record stores a marketplace to sell their vinyl and display their record store to a community of music lovers",
     "role" : "Student",
     "org" : "Northeastern Illinois University",
     "lang" : "PHP & MySQL",
@@ -37,16 +37,16 @@
   },
   {
     "name" : "Shopping List",
-    "desc" : "",
+    "desc" : "Create a shopping list to make planning and shopping for groceries easier",
     "role" : "Student",
     "org" : "Northeastern Illinois University",
     "lang" : "Java & MySQL",
-    "src" : "",
+    "src" : "https://github.com/bboss29/bboss29.github.io/tree/master/projects/Shopping%20List",
     "tags" : ""
   },
   {
     "name" : "Lincolnwood Together Website",
-    "desc" : "",
+    "desc" : "Simple website for a community organization",
     "role" : "Freelance",
     "org" : "Lincolnwood Together",
     "lang" : "PHP & MySQL",
@@ -55,7 +55,7 @@
   },
   {
     "name" : "Harice Leavitt Memorial Website",
-    "desc" : "",
+    "desc" : "Website created for a memorial fund",
     "role" : "Freelance",
     "org" : "Harice Leavitt Memorial Angel Fund",
     "lang" : "PHP & MySQL",
@@ -64,20 +64,20 @@
   },
   {
     "name" : "Purchasing Project",
-    "desc" : "",
+    "desc" : "Software designed to streamline and disambiguate the food ordering process",
     "role" : "Software Developer",
     "org" : "Lettuce Entertain You Enterprises",
     "lang" : "Google Apps Script",
-    "src" : "",
+    "src" : "https://github.com/bboss29/bboss29.github.io/tree/master/projects/Purchasing%20Project",
     "tags" : ""
   },
   {
     "name" : "NBN Accounting",
-    "desc" : "",
+    "desc" : "Supplementary software for the NBN Help Desk to assist with requesting days off and reporting hours and expenses",
     "role" : "Project Manager",
     "org" : "Lettuce Entertain You Enterprises",
     "lang" : "Google Apps Script",
-    "src" : "",
+    "src" : "https://github.com/bboss29/bboss29.github.io/tree/master/projects/NBN%20Accounting",
     "tags" : ""
   }
 ]

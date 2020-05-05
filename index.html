@@ -8,7 +8,7 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Brandon Boss</title>
 
-    <link rel="icon" href="#"> <!--TODO icon-->
+    <link rel="icon" href="resources/code_icon.png">
 
     <link rel="stylesheet"
           href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css"
@@ -23,6 +23,16 @@
           crossorigin="anonymous">
 
     <style>
+        @media (max-width: 1200px) {
+            .card-columns {
+                column-count: 2;
+            }
+        }
+        @media (max-width: 576px) {
+            .card-columns {
+                column-count: 1;
+            }
+        }
 
     </style>
 </head>
@@ -60,7 +70,7 @@
 </nav>
 
 <!--Content-->
-<div id="content" class="container-md"> <!-- TODO sections-->
+<div id="content" class="container-lg">
     <div style="margin: 100px 0 100px 0">
         <h1 class="display-1 text-center">Brandon Solomon Boss</h1>
         <p class="display-4 text-center">Software Developer</p>
@@ -90,7 +100,7 @@
         crossorigin="anonymous"></script>
 
 <script src="scripts/projects.js"></script>
-<script src="scripts/projects.json"></script>
+<script src="projects/projects.json"></script>
 
 </body>
 </html>

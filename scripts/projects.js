@@ -1,5 +1,5 @@
 $().ready(function(){
-    $.getJSON( "scripts/projects.json", function( projects ) {
+    $.getJSON( "projects/projects.json", function( projects ) {
         var out = "";
         $.each(projects, function (index, project) {
             out += '<div class="card">';
@@ -31,6 +31,5 @@ $().ready(function(){
             out += '</div>';
         });
         $('#projects').html(out);
-        // console.log(projects);
     });
 });
