@@ -18,7 +18,6 @@ function capitalize() {  // Capitalize item names on inventory sheet for consist
     for ( var item = 0; item < items.length; item++){
         items[item][0] = items[item][0].toUpperCase();
     }
-    Logger.log(items);
     range.setValues(items);
 }
 
@@ -29,7 +28,6 @@ function markOG() { // sync the order guide sheet with vendor order & vendor del
     var ogv = og.getRange("B2:B").getDisplayValues(); // order guide vendors
     var days = ["Thu","Fri", "Sat", "Sun", "Mon", "Tue", "Wed"];
     var out = [];
-    Logger.log(og.getRange("F3").getBackground());
     for (var row = 0; row < ogv.length; row++) {
         var outrow = [];
         for (var d = 0; d < days.length; d++) {
@@ -427,9 +425,8 @@ function produceToItemsSheet() { // updates Item sheet with Produce prices + ven
         }
     }
 
-    Logger.log(vendor_out);
-    is.getRange(2, 10, vendor_out.length).setValues(vendor_out); //TODO UNSAFE
-    is.getRange(2, 8, price_out.length).setValues(price_out);    //TODO UNSAFE
+    is.getRange(2, 10, vendor_out.length).setValues(vendor_out);
+    is.getRange(2, 8, price_out.length).setValues(price_out);
 }
 
 function archive() {  // archive ss, then clear ss
@@ -623,7 +620,6 @@ function OG_info() { // write OG vendor, units & price. Items --> OG
         }
         out.push(add);
     }
-    Logger.log(out);
     OG.getRange("B2:E").setValues(out);
 }
 
