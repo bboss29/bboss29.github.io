@@ -21,7 +21,7 @@ SOFTWARE DEVELOPER
             Utilizing Agile software development to create solutions for restaurants to operate more efficiently.
             Leading project to develop software that streamlines the process restaurants use to take inventory and order items from their vendors.
 
-	Project Manager
+    Project Manager
         NUTS BOLTS & NUTS DEPARTMENT,
         LETTUCE ENTERTAIN YOU ENTERPRISES
         August 2017 - March 2019
@@ -29,14 +29,14 @@ SOFTWARE DEVELOPER
             Developed supplementary tools using Google Apps Script to assist with accounting and scheduling; created training materials and trained users.
             Organized and facilitated communication between clients and end users.
 
-	Internship - Help Desk Technician
+    Internship - Help Desk Technician
         IT DEPARTMENT,
         LETTUCE ENTERTAIN YOU ENTERPRISES
         June 2017 - August 2017
             Performed maintenance and operation of hardware and software systems at LEYE restaurants in the Chicagoland area.
             Trained in:  Network Topology & Security, Point of Sale Technology, PC/Desktop Support, & System Administration
 
-	Carryout Staff
+    Carryout Staff
         L. WOODS RESTAURANT,
         LETTUCE ENTERTAIN YOU ENTERPRISES
         May 2015 - May 2017

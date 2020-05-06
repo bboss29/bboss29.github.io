@@ -19,12 +19,12 @@ $().ready(function(){
 
             if (project.tags.indexOf("Live") !== -1)
                 out += '<tr><th><i class="fas fa-server fa-2x"></i></th><td>' +
-                    '<a class="btn btn-info btn-block" target="_blank" href="' +
+                    '<a class="btn btn-primary btn-block" target="_blank" href="' +
                         project.src + '">View Live Website</a></td></tr>';
 
             else if (project.src.length !== 0)
                 out += '<tr><th><i class="fas fa-code fa-2x"></i></th><td>' +
-                    '<a class="btn btn-primary btn-block" target="_blank" href="' +
+                    '<a class="btn btn-info btn-block" target="_blank" href="' +
                         project.src + '">View Source Code</a></td></tr>';
 
             out += '</tbody></table>';
