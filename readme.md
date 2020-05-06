@@ -10,7 +10,42 @@
 ## Objective
 To advance and grow with an organization by identifying problems and designing solutions to improve people's lives and make a positive impact locally and globally.
 
-## Projects
+## Live Websites
+
+### <a href="http://lincolnwoodtogether.org/">Lincolnwood Together</a>
+
+### <a href="http://hariceleavittmemorialangelfund.org/">Harice Leavitt Memorial Angel Fund</a>
+
+
+## Software Projects
+
+### <a href="https://github.com/bboss29/bboss29.github.io/tree/master/projects/Purchasing%20Project">Purchasing Project</a>
+
+<img 
+    src="https://img.shields.io/badge/status-testing-yellow"
+    alt="status-testing">
+<img 
+    src="https://img.shields.io/badge/development-inactive-inactive"
+    alt="development-indefinite-hiatus">
+<img 
+    src="https://img.shields.io/badge/REDACTED-orange"
+    alt="redacted">
+    
+> Software designed to streamline and disambiguate the food ordering process
+
+### <a href="https://github.com/bboss29/bboss29.github.io/tree/master/projects/NBN%20Accounting">NBN Accounting Project</a>
+
+<img 
+    src="https://img.shields.io/badge/status-complete-brightgreen"
+    alt="status-complete">
+<img 
+    src="https://img.shields.io/badge/development-inactive-inactive"
+    alt="development-inactive">
+<img 
+    src="https://img.shields.io/badge/REDACTED-orange"
+    alt="redacted">
+
+>Supplementary software for the NBN Help Desk to assist with requesting days off and reporting hours and expenses
 
 ### <a href="https://github.com/bboss29/bboss29.github.io/tree/master/projects/LEYE%20Hardware%20Inventory">Hardware Inventory</a>
 
@@ -41,6 +76,7 @@ To advance and grow with an organization by identifying problems and designing s
     alt="redacted">
     
 > Create a shopping list to make planning and shopping for groceries easier
+
 ### <a href="https://github.com/bboss29/bboss29.github.io/tree/master/projects/RetailAlert">Retail Alert</a>
 
 <img 
@@ -53,31 +89,3 @@ To advance and grow with an organization by identifying problems and designing s
     src="https://img.shields.io/badge/REDACTED-orange"
     alt="redacted">
 > Prototype retail customer service solution. Store associates can respond to requests created by customers; customers can search product catalog
-
-### <a href="https://github.com/bboss29/bboss29.github.io/tree/master/projects/Purchasing%20Project">Purchasing Project</a>
-
-<img 
-    src="https://img.shields.io/badge/status-testing-yellow"
-    alt="status-testing">
-<img 
-    src="https://img.shields.io/badge/development-indefinite hiatus-red"
-    alt="development-indefinite-hiatus">
-<img 
-    src="https://img.shields.io/badge/REDACTED-orange"
-    alt="redacted">
-    
-> Software designed to streamline and disambiguate the food ordering process
-
-### <a href="https://github.com/bboss29/bboss29.github.io/tree/master/projects/NBN%20Accounting">NBN Accounting Project</a>
-
-<img 
-    src="https://img.shields.io/badge/status-complete-brightgreen"
-    alt="status-complete">
-<img 
-    src="https://img.shields.io/badge/development-inactive-inactive"
-    alt="development-inactive">
-<img 
-    src="https://img.shields.io/badge/REDACTED-orange"
-    alt="redacted">
-
->Supplementary software for the NBN Help Desk to assist with requesting days off and reporting hours and expenses

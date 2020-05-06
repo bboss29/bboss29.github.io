@@ -4,7 +4,7 @@
     src="https://img.shields.io/badge/status-testing-yellow"
     alt="status-testing">
 <img 
-    src="https://img.shields.io/badge/development-indefinite hiatus-red"
+    src="https://img.shields.io/badge/development-inactive-inactive"
     alt="development-indefinite-hiatus">
 <img 
     src="https://img.shields.io/badge/REDACTED-orange"
