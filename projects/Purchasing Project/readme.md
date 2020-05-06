@@ -1,11 +1,11 @@
 # Purchasing Project
 
 <img 
-    src="https://img.shields.io/badge/development-indefinite hiatus-red"
-    alt="development-indefinite-hiatus">
-<img 
     src="https://img.shields.io/badge/status-testing-yellow"
     alt="status-testing">
+<img 
+    src="https://img.shields.io/badge/development-indefinite hiatus-red"
+    alt="development-indefinite-hiatus">
 <img 
     src="https://img.shields.io/badge/REDACTED-orange"
     alt="redacted">

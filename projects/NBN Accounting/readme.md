@@ -1,11 +1,11 @@
 # NBN Accounting Project
 
 <img 
-    src="https://img.shields.io/badge/development-inactive-red"
-    alt="development-inactive">
-<img 
     src="https://img.shields.io/badge/status-complete-brightgreen"
     alt="status-complete">
+<img 
+    src="https://img.shields.io/badge/development-inactive-inactive"
+    alt="development-inactive">
 <img 
     src="https://img.shields.io/badge/REDACTED-orange"
     alt="redacted">

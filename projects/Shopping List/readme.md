@@ -1,11 +1,11 @@
 # Shopping List Project
 
 <img 
-    src="https://img.shields.io/badge/development-inactive-red"
-    alt="development-inactive">
-<img 
     src="https://img.shields.io/badge/status-prototype-yellow"
     alt="status-prototype">
+<img 
+    src="https://img.shields.io/badge/development-inactive-inactive"
+    alt="development-inactive">
 <img 
     src="https://img.shields.io/badge/REDACTED-orange"
     alt="redacted">
