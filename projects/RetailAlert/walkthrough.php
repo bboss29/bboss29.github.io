@@ -8,8 +8,6 @@ include('includes/header.php');
 <h1>Walkthrough</h1>
 <div style="margin: 25px auto auto auto; width: 30%;min-width: 300px">
     <a href="./401-RESOURCES" class="btn btn-secondary btn-block">Class Resources</a>
-</div><div style="margin: 25px auto auto auto; width: 30%;min-width: 300px">
-    <a href="./401-RESOURCES/ADD.pdf" class="btn btn-secondary btn-block">Analysis & Design Document</a>
 </div>
 
 <h3>General Walkthrough</h3>
